@@ -1,1 +1,5 @@
-# Fase1-Javascript-Lab5
+# Fase1-Frontend-Javascript-Lab5
+
+# Opdracht 1: Persoonsregister (??? / ???)
+# Opdracht 2: Personenregister (??? / ???)
+# Opdracht 3: Leeftijdsfilter (??? / ???)
